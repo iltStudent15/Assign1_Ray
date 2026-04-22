@@ -13,7 +13,7 @@
       <p class="small">Aspiring Full Stack Developer | Student | Problem Solver</p>
       <div class="contact">
         <a href="mailto:youremail@example.com">Email</a>
-        <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+        <a href="https://github.com/iltStudent15" target="_blank">GitHub</a>
         <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
       </div>
     </header>
@@ -21,8 +21,8 @@
     <section>
       <h2>About Me</h2>
       <p>
-        Write a short introduction here. Talk about who you are, what you are studying,
-        what kind of developer you want to become, and what skills you are building.
+       I am a life long student of anything that is remotely interesting. Current hobbies include: Coding,Boardgames,
+       Pool (American Billiards), and cooking
       </p>
     </section>
 
@@ -32,7 +32,7 @@
         <li>HTML, CSS, JavaScript</li>
         <li>Git and GitHub</li>
         <li>Responsive Web Design</li>
-        <li>Node.js / React / SQL (edit based on your skills)</li>
+        <li>Node.js / React / SQL (</li>
       </ul>
     </section>
 
@@ -41,14 +41,14 @@
       <div class="project">
         <h3>Project Name 1</h3>
         <p>
-          Briefly describe the project, what it does, and what tools or technologies you used.
+          This is a project for github and proper commit/feature control
         </p>
       </div>
 
       <div class="project">
         <h3>Project Name 2</h3>
         <p>
-          Add another project here with a short explanation of its purpose and your role.
+          Another project at a later date
         </p>
       </div>
     </section>
@@ -56,28 +56,18 @@
     <section>
       <h2>Experience</h2>
       <div class="job">
-        <h3>Job Title or Relevant Role</h3>
-        <p class="small">Company Name | Start Date - End Date</p>
+        <h3>Infrasture Engineer</h3>
+        <p class="small">Liberty Mutual| Start Date - End Date</p>
         <p>
-          Describe responsibilities, transferable skills, teamwork, communication, or technical work.
+          I am an infrasture Engineer for the Tech Support team.
         </p>
       </div>
     </section>
 
     <section>
-      <h2>Education</h2>
-      <p>
-        School or Program Name<br />
-        Degree / Certificate / Training Program<br />
-        Expected Graduation or Completion Date
-      </p>
-    </section>
-
-    <section>
       <h2>Goals</h2>
       <p>
-        Share what you are working toward, such as becoming a full stack developer,
-        improving your portfolio, or gaining real-world software development experience.
+      My main goal is to pass the course and enhance my skills.
       </p>
     </section>
   </div>
