@@ -13,3 +13,12 @@ The website serves as a personal online profile. It can include sections such as
 - Projects or skills section
 - Contact or social links
 - Clean and simple structure for easy updates
+
+## Branching Strategy
+
+- My branch stragey was for a feature to add the bulk of the website template, called bulk add.
+
+
+## Commit Philosphy
+
+- for this project, the commit philosphy was anytime a change was made, including minor typo corrections.
